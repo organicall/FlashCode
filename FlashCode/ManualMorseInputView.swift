@@ -32,8 +32,9 @@ struct ManualMorseInputView: View {
                 HStack(spacing: 15) {
                     Button(action: { morseCode.append(".") }) {
                         Text(".")
+                            .font(.system(size: 30, weight: .black))
                             .font(.largeTitle)
-                            .frame(width: 80, height: 80)
+                            .frame(width: 150, height: 150)
                             .background(Color.gray.opacity(0.3))
                             .clipShape(Circle())
                             .foregroundColor(.white)
@@ -41,8 +42,8 @@ struct ManualMorseInputView: View {
 
                     Button(action: { morseCode.append("-") }) {
                         Text("-")
-                            .font(.largeTitle)
-                            .frame(width: 80, height: 80)
+                            .font(.system(size: 30, weight: .black))
+                            .frame(width: 150, height: 150)
                             .background(Color.gray.opacity(0.3))
                             .clipShape(Circle())
                             .foregroundColor(.white)
@@ -125,4 +126,7 @@ struct ManualMorseInputView: View {
             .padding()
         }
     }
+}
+#Preview {
+    ManualMorseInputView()
 }
