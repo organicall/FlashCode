@@ -104,7 +104,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 ## 📩 **Contact**
 💡 **Created by Ritwik Bhattacharyya**  
 📧 Email: [ritwikbhattacharyya68@gmail.com]  
-🔗 GitHub: [github.com/organicall]  
+🔗 GitHub: [https://github.com/organicall]  
 
 
 
