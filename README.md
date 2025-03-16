@@ -95,8 +95,9 @@ Want to improve this project? **Contributions are welcome!**
 
 ---
 
-## 📄 **License**
-MIT License. See [LICENSE](LICENSE) for details.  
+## 📄 License
+This project is licensed under the **MIT License** – see the [LICENSE](https://github.com/organicall/FlashCode/blob/main/LICENCE) file for details.
+ 
 
 ---
 
